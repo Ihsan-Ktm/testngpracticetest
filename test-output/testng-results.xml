@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19113" started-at="2020-11-24T16:33:01 PKT" finished-at="2020-11-24T16:33:20 PKT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19113" started-at="2020-11-24T16:33:01 PKT" finished-at="2020-11-24T16:33:20 PKT">
+      <class name="tests.AutomatedTesterTests">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:tests.AutomatedTesterTests@7a30d1e6]" name="SetUp" is-config="true" duration-ms="17396" started-at="2020-11-24T16:33:01 PKT" finished-at="2020-11-24T16:33:18 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerifyHomepage()[pri:1, instance:tests.AutomatedTesterTests@7a30d1e6]" name="VerifyHomepage" duration-ms="30" started-at="2020-11-24T16:33:18 PKT" finished-at="2020-11-24T16:33:18 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomepage -->
+        <test-method status="PASS" signature="ClickChapter1()[pri:2, instance:tests.AutomatedTesterTests@7a30d1e6]" name="ClickChapter1" duration-ms="869" started-at="2020-11-24T16:33:18 PKT" finished-at="2020-11-24T16:33:19 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickChapter1 -->
+        <test-method status="PASS" signature="VerifyText()[pri:3, instance:tests.AutomatedTesterTests@7a30d1e6]" name="VerifyText" duration-ms="97" started-at="2020-11-24T16:33:19 PKT" finished-at="2020-11-24T16:33:19 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyText -->
+        <test-method status="PASS" signature="NavigateToHome()[pri:4, instance:tests.AutomatedTesterTests@7a30d1e6]" name="NavigateToHome" duration-ms="622" started-at="2020-11-24T16:33:19 PKT" finished-at="2020-11-24T16:33:20 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToHome -->
+      </class> <!-- tests.AutomatedTesterTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,4 @@
+tests\TestBase.class
+tests\AutomatedTesterTests.class
+pages\Chapter1Page.class
+pages\HomePage.class
